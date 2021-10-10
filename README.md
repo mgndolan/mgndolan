@@ -8,7 +8,7 @@ I started my career in biology originally wanting to study plant genetics in agr
 
 - 🔭 I’m currently working on a biology-inspired RPG game
 - 🌱 I’m currently learning React, Unity, & .NET
-- 💬 Ask me about anything! I love to learn and meet new people
+- 💬 Ask me about anything! I especially love to discuss multidisciplinary backgrounds/approaches to problem solving
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If you see me wearing headphones, I am probably listening to LoFi 🎵 My favorite season is fall 🍁 and I am currently learning to play the ukulele
 
